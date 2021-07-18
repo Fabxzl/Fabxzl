@@ -4,7 +4,7 @@ Meu nome é Fabricio, tenho 18 anos, estou cursando Ciência da Computação (2�
 
 Programo desde 2019 e o que me motiva a cada dia é que eu consigo melhorar a experiência de um usuário a cada clique.
 
-#### Minhas estatisticas 👨🏽‍💻👇🏽
+#### Minhas estatisticas 📊👇🏽
 
   <a href="https://github.com/Fabxzl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabxzl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
