@@ -11,6 +11,10 @@ Programo desde 2019 e o que me motiva a cada dia é que eu consigo melhorar a ex
 - 🖱 Sou Desenvolvedor Front-end.
 - 🚀 Sou apaixonado por produtividade.
 
+<img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 Me siga nas redes sociais 👇
 
 
