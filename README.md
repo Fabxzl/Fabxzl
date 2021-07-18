@@ -1,6 +1,6 @@
 # Opa 👋
 
-Meu nome é Fabricio, atualmente tenho 18 anos, estou cursando Ciência da Computação (2º semestre), e sou apaixonado por tecnologia. 😄
+Meu nome é Fabricio, tenho 18 anos, estou cursando Ciência da Computação (2º semestre), e sou apaixonado por tecnologia. 😄
 
 Programo desde 2019 e o que me motiva a cada dia é que eu consigo melhorar a experiência de um usuário a cada clique.
 
