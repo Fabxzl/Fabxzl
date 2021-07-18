@@ -7,7 +7,8 @@ Programo desde 2019 e o que me motiva a cada dia é que eu consigo melhorar a ex
 #### Minhas estatisticas 📊👇🏽
 
   <a href="https://github.com/Fabxzl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabxzl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabxzl&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabxzl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabxzl&layout=compact&langs_count=7&theme=algolia"/>
 
 
 #### Saiba mais sobre a minha pessoa 😉👇🏽
