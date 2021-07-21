@@ -1,4 +1,4 @@
-# Opa 👋
+# Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 Meu nome é Fabricio, tenho 18 anos, estou cursando Ciência da Computação (2º semestre), e sou apaixonado por tecnologia. 😄
 
