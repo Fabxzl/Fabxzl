@@ -1,5 +1,5 @@
-# Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-
+# Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😄
+ 
 Meu nome é Fabricio, tenho 18 anos, estou cursando Ciência da Computação (2º semestre), e sou apaixonado por tecnologia. 😄
 
 Programo desde 2019 e o que me motiva a cada dia é que eu consigo melhorar a experiência de um usuário a cada clique.
