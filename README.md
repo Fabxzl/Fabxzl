@@ -1,6 +1,6 @@
 # Hello, how are you? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😄
  
-My name is Fabricio, I study Computer Science (2nd semester) and I am passionate about technology.
+I'm Fabricio, I study Computer Science (2nd semester) and I am passionate about technology.
 
 I've been programming since 2019, and what motivates me every day is that I can improve the user experience with every click. 😄
 
