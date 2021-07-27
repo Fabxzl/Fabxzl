@@ -1,26 +1,26 @@
-# Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😄
+# Hello, how are you? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😄
  
-Meu nome é Fabricio, tenho 18 anos, estou cursando Ciência da Computação (2º semestre), e sou apaixonado por tecnologia. 😄
+My name is Fabricio, I study Computer Science (2nd semester) and I am passionate about technology.
 
-Programo desde 2019 e o que me motiva a cada dia é que eu consigo melhorar a experiência de um usuário a cada clique.
+I've been programming since 2019, and what motivates me every day is that I can improve the user experience with every click. 😄
 
-## Minhas estatísticas 📊👇🏽
+## My stats 📊👇🏽
 
   <a href="https://github.com/Fabxzl">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Fabxzl&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabxzl&layout=compact&langs_count=7&theme=algolia"/>
 
 
-## Saiba mais sobre a minha pessoa 😉👇🏽
+## Know more about me😉👇🏽
 
-- 📍 Moro em São Paulo.
-- 😍 Sou apaixonado por produtividade.
-- 🎥 Nas horas vagas trabalho com edição de Imagem e Vídeo.
+- 📍 I live in Sao Paulo.
+- 😍 I'm passionate about productivity.
+- 🎥 In my spare time I work with image and video editing.
  
- ## Atualmente trabalho com:
+ ## I currently work with:
 
 <img align="center" alt="Fab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Fab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Fab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-## Me siga nas redes sociais 👇🏽
+## Follow me on social media 👇🏽
 
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Fabxzl)](https://www.linkedin.com/in/Fabxzl) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/Fabxzl)](https://twitter.com/Fabxzl_) 
