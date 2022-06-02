@@ -1,4 +1,4 @@
-# Hello, how are you? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">😄
+# Hello, how are you? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">😄
  
 I'm Fabricio, I study Computer Science (3nd semester) and I am passionate about technology.
 
